@@ -1,0 +1,8 @@
+[user]
+	name = James Holwell
+	email = 3832591+jamesholwell@users.noreply.github.com
+
+[push]
+	# https://git-scm.com/docs/git-config#git-config-pushdefault
+	default = simple
+	autoSetupRemote = true
